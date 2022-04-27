@@ -13,4 +13,4 @@ I've used MyCall dataset in this project. Based on the inputs given the user the
 
 
 
-For the UI part I've used streamlit library. 
+For the UI part I've used streamlit library. Live demo of the application: https://share.streamlit.io/neelrayal/calldropprediction/app.py
